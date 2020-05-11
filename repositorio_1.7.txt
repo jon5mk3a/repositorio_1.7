@@ -1,2 +1,2 @@
 esto es un repositorio git.
-
+lo editare desde la rama andres para fusionarlo con master.
